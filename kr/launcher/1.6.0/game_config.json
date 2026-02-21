@@ -1,0 +1,18 @@
+{
+  "code": 200,
+  "data": {
+    "game_lowest_version": "0.2.3",
+    "game_latest_version": "0.2.4",
+    "game_latest_file_path": "prod/ZIP_TEMP/MajSoul_KR_TEMP/MajSoul_KR-0.2.4-game.zip",
+    "game_start_exe_name": "Jantama_MahjongSoul",
+    "game_file_size": "",
+    "game_file_size_type": "",
+    "crc64": "",
+    "size": 0,
+    "file_url": "",
+    "decompression_size": "3.5GB",
+    "config_id": 0,
+    "game_start_params": null
+  },
+  "msg": "OK"
+}

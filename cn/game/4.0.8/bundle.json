@@ -1,0 +1,22 @@
+{
+  "anim_3653237a425f43335b9d2631bed19c8d.majset": 9225,
+  "docs$@$user_manual_0575ca069a286f0a78fc9f5c7fec0a9c.majset": 13568,
+  "docs_dd7293877195a06e8d2410129d6cf95a.majset": 24532,
+  "lua_c9e515b757d79a946c03e758fa466d5f.majset": 141577,
+  "lua_cjson_0e40c0fec1e3684417245c057f3256fd.majset": 7454,
+  "lua_jit_ed6f0507b09e3b790c1812debdf81fa8.majset": 170594,
+  "lua_lpeg_23cddc7ba2c96647681ef9673409a453.majset": 7185,
+  "lua_misc_a965d399b5dfc2cd7f545178b7e26530.majset": 9594,
+  "lua_net_139f1db9fe5392ea7ba682e1479a005f.majset": 11396,
+  "lua_protobuf_1d55031e3038888b7184e3cc22c0e415.majset": 75147,
+  "lua_protol_6694e2461c1c0034fb37ed97a5bfef3f.majset": 2207833,
+  "lua_socket_ab919b18036162b103ca7e806174c66e.majset": 43517,
+  "lua_system_51341c2f05a5a4e9863bd9f1c0712fc8.majset": 8647,
+  "lua_system_injection_f0ed081a4f95a3922d6dd2804385a98b.majset": 15588,
+  "lua_system_reflection_b35faaaa733e66ab14b90ff9f6d973e6.majset": 2139,
+  "lua_ui_afb6378f88b35e3d196e0f14e8ae2eed.majset": 44930,
+  "lua_unityengine_d52161625cbe7e1a68c2120c76934b42.majset": 70028,
+  "pic$@$notice_a7b238ab2d9c2b8ca5507990c56b7ab0.majset": 2505164,
+  "pic_7ef5aa3eceada7fc88903128946ee9e4.majset": 2990350,
+  "prefab$@$ui_0f46ccd22908ca37d747b771f256bc90.majset": 41596
+}

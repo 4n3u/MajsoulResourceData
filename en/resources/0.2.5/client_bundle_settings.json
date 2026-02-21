@@ -1,0 +1,25 @@
+{
+  "warehouses": [
+    {
+      "name": "release",
+      "urls": [
+        {
+          "url": "https://appassets.mahjongsoul.com",
+          "weight": 100000,
+          "TIMEOUT": 600000,
+          "Priority": 100,
+          "FASTTIMEOUT": 10000
+        },
+        {
+          "url": "https://appassetsback.mahjongsoul.com",
+          "weight": 100000,
+          "TIMEOUT": 600000,
+          "Priority": 50,
+          "FASTTIMEOUT": 10000
+        }
+      ],
+      "clientBundleSettings": "/v3/en/clientbundlesettings/",
+      "warehouseSettingPath": "/v3/en/resources/warehouseSettings/en-release.json"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "code": 200,
+  "data": {
+    "banner_loop": true,
+    "news_list": {
+      "code": 0,
+      "data": {
+        "news": [
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/news/124",
+                "publishTime": 1771471776000,
+                "thumbnail": "",
+                "title": "Lucky Yaku, Lucky Year: Fortune Comes Your Way!",
+                "typeLabel": "All"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/news/123",
+                "publishTime": 1770606089000,
+                "thumbnail": "",
+                "title": "February 10th Maintenance",
+                "typeLabel": "All"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/news/122",
+                "publishTime": 1769066334000,
+                "thumbnail": "",
+                "title": "Catch your invitation and join the celebration!",
+                "typeLabel": "All"
+              }
+            ],
+            "typeLabel": "All"
+          },
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/news/105",
+                "publishTime": 1748324795000,
+                "thumbnail": "",
+                "title": "[IMPORTANT] Yostar Account FAQ",
+                "typeLabel": "News"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/news/104",
+                "publishTime": 1748324723000,
+                "thumbnail": "",
+                "title": "[IMPORTANT] Yostar Account Notice",
+                "typeLabel": "News"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/news/102",
+                "publishTime": 1747796477000,
+                "thumbnail": "",
+                "title": "Yostar Account Notice",
+                "typeLabel": "News"
+              }
+            ],
+            "typeLabel": "News"
+          },
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/news/124",
+                "publishTime": 1771471776000,
+                "thumbnail": "",
+                "title": "Lucky Yaku, Lucky Year: Fortune Comes Your Way!",
+                "typeLabel": "Events"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/news/122",
+                "publishTime": 1769066334000,
+                "thumbnail": "",
+                "title": "Catch your invitation and join the celebration!",
+                "typeLabel": "Events"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/news/120",
+                "publishTime": 1766642116404,
+                "thumbnail": "",
+                "title": "Santa's Final Delivery: A Mahjong Quiz!",
+                "typeLabel": "Events"
+              }
+            ],
+            "typeLabel": "Events"
+          },
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/news/123",
+                "publishTime": 1770606089000,
+                "thumbnail": "",
+                "title": "February 10th Maintenance",
+                "typeLabel": "Maintenance"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/news/121",
+                "publishTime": 1768187700000,
+                "thumbnail": "",
+                "title": "January 13th Maintenance",
+                "typeLabel": "Maintenance"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/news/118",
+                "publishTime": 1765728000000,
+                "thumbnail": "",
+                "title": "December 14th Maintenance",
+                "typeLabel": "Maintenance"
+              }
+            ],
+            "typeLabel": "Maintenance"
+          },
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/news/72",
+                "publishTime": 1699864938830,
+                "thumbnail": "",
+                "title": "Mahjong Soul Classroom 101: Furiten",
+                "typeLabel": "Other"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/news/71",
+                "publishTime": 1699864896903,
+                "thumbnail": "",
+                "title": "Mahjong Soul Classroom 101: Dora",
+                "typeLabel": "Other"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/news/70",
+                "publishTime": 1699864848158,
+                "thumbnail": "",
+                "title": "Mahjong Soul Classroom 101: Riichi",
+                "typeLabel": "Other"
+              }
+            ],
+            "typeLabel": "Other"
+          }
+        ]
+      },
+      "message": "ok"
+    },
+    "notice_list": null,
+    "operations_banner_list": [
+      {
+        "banner_img": "https://launcher-pkg-mj-en.yo-star.com/prod/MajSoul_EN/banner/65cd35c51ae3da5a1176c1249cc2db3c.png",
+        "jump_url": "https://www.youtube.com/watch?v=WdvkrPCURi0",
+        "remark": "",
+        "start_at": 1770694070,
+        "end_at": 1772830799
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-en.yo-star.com/prod/MajSoul_EN/banner/fce6ffb558b82b7539e1272b39c98904.png",
+        "jump_url": "https://x.com/MahjongSoul_EN/status/2021501965176561704",
+        "remark": "",
+        "start_at": 1770803334,
+        "end_at": 1772830799
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-en.yo-star.com/prod/MajSoul_EN/banner/617f33e66d21939d3a742b7a91672840.png",
+        "jump_url": "https://x.com/MahjongSoul_EN/status/2021509512943813098",
+        "remark": "",
+        "start_at": 1770803361,
+        "end_at": 1772830799
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-en.yo-star.com/prod/MajSoul_EN/banner/66dea36b4b7ddc57fc7e83865f41abc0.png",
+        "jump_url": "https://x.com/MahjongSoul_EN/status/2021513288149045544",
+        "remark": "",
+        "start_at": 1770803384,
+        "end_at": 1772830799
+      },
+      {
+        "banner_img": "https://launcher-pkg-en.yo-star.com/pubplat/game_launcher/banner/1c042cf5c58e96c2b038fbd2f6ced67b.jpg",
+        "jump_url": "https://mahjongsoul.yo-star.com/faq",
+        "remark": "",
+        "start_at": 0,
+        "end_at": 0
+      },
+      {
+        "banner_img": "https://launcher-pkg-en.yo-star.com/pubplat/game_launcher/banner/5328b80a8c69216ba55262dbb78795b6.jpg",
+        "jump_url": "https://mahjongsoul.yo-star.com/classroom",
+        "remark": "",
+        "start_at": 0,
+        "end_at": 0
+      }
+    ],
+    "operations_resource_open": true,
+    "time_interval": 3
+  },
+  "msg": "OK"
+}

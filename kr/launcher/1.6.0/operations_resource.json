@@ -1,0 +1,193 @@
+{
+  "code": 200,
+  "data": {
+    "banner_loop": true,
+    "news_list": {
+      "code": 0,
+      "data": {
+        "news": [
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/kr/news/92",
+                "publishTime": 1771380000000,
+                "thumbnail": "",
+                "title": "[중요] 신규 Yostar 계정 연동 알림 및 리뉴얼 FAQ",
+                "typeLabel": "전체"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/kr/news/91",
+                "publishTime": 1770606000000,
+                "thumbnail": "",
+                "title": "2026년 2월 11일 점검 안내",
+                "typeLabel": "전체"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/kr/news/90",
+                "publishTime": 1770357600000,
+                "thumbnail": "",
+                "title": "대국 부정 행위 조치 안내 (2026년 2월)",
+                "typeLabel": "전체"
+              }
+            ],
+            "typeLabel": "전체"
+          },
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/kr/news/61",
+                "publishTime": 1744804800000,
+                "thumbnail": "",
+                "title": "첫 결제 2배 혜택 초기화 안내",
+                "typeLabel": "소식"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/kr/news/34",
+                "publishTime": 1726128000000,
+                "thumbnail": "",
+                "title": "유료 아이템 상호 호환 관련 안내",
+                "typeLabel": "소식"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/kr/news/29",
+                "publishTime": 1721813533000,
+                "thumbnail": "",
+                "title": "[작혼: 리치 마작] Steam 정식 출시 안내",
+                "typeLabel": "소식"
+              }
+            ],
+            "typeLabel": "소식"
+          },
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/kr/news/89",
+                "publishTime": 1769742000000,
+                "thumbnail": "",
+                "title": "2026년 2월 2일 무점검 업데이트 안내",
+                "typeLabel": "이벤트"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/kr/news/86",
+                "publishTime": 1767061198541,
+                "thumbnail": "",
+                "title": "MKC 2026 참가 신청 안내",
+                "typeLabel": "이벤트"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/kr/news/83",
+                "publishTime": 1764907200000,
+                "thumbnail": "",
+                "title": "2025년 12월 8일 무점검 업데이트 안내",
+                "typeLabel": "이벤트"
+              }
+            ],
+            "typeLabel": "이벤트"
+          },
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/kr/news/91",
+                "publishTime": 1770606000000,
+                "thumbnail": "",
+                "title": "2026년 2월 11일 점검 안내",
+                "typeLabel": "점검"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/kr/news/88",
+                "publishTime": 1768186800000,
+                "thumbnail": "",
+                "title": "2026년 1월 14일 점검 안내",
+                "typeLabel": "점검"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/kr/news/85",
+                "publishTime": 1765767600000,
+                "thumbnail": "",
+                "title": "2025년 12월 17일 점검 안내",
+                "typeLabel": "점검"
+              }
+            ],
+            "typeLabel": "점검"
+          },
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/kr/news/92",
+                "publishTime": 1771380000000,
+                "thumbnail": "",
+                "title": "[중요] 신규 Yostar 계정 연동 알림 및 리뉴얼 FAQ",
+                "typeLabel": "기타"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/kr/news/90",
+                "publishTime": 1770357600000,
+                "thumbnail": "",
+                "title": "대국 부정 행위 조치 안내 (2026년 2월)",
+                "typeLabel": "기타"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.yo-star.com/kr/news/80",
+                "publishTime": 1760954400000,
+                "thumbnail": "",
+                "title": "개인정보 처리방침 및 서비스 이용 약관 변경 사전 안내",
+                "typeLabel": "기타"
+              }
+            ],
+            "typeLabel": "기타"
+          }
+        ]
+      },
+      "message": "ok"
+    },
+    "notice_list": null,
+    "operations_banner_list": [
+      {
+        "banner_img": "https://launcher-pkg-mj-kr.yo-star.com/prod/MajSoul_KR/banner/751c0db9599bcbd751052e6469bcf07f.png",
+        "jump_url": "https://youtu.be/pBu1qIw1XqE",
+        "remark": "PV",
+        "start_at": 0,
+        "end_at": 0
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-kr.yo-star.com/prod/MajSoul_KR/banner/f0be2ae0b40d706326d52a2f654617d0.png",
+        "jump_url": "https://cafe.naver.com/mahjongsoul/15996",
+        "remark": "社媒活动",
+        "start_at": 0,
+        "end_at": 0
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-kr.yo-star.com/prod/MajSoul_KR/banner/0c33ddd5568b8fe92077cc157b96e85e.png",
+        "jump_url": "https://youtu.be/eL6IdVZk7Uo",
+        "remark": "PV",
+        "start_at": 0,
+        "end_at": 0
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-kr.yo-star.com/prod/MajSoul_KR/banner/4e5397a2ff5dc176c3a7751b524e803b.png",
+        "jump_url": "https://cafe.naver.com/mahjongsoul/14518",
+        "remark": "账号绑定",
+        "start_at": 0,
+        "end_at": 0
+      }
+    ],
+    "operations_resource_open": true,
+    "time_interval": 5
+  },
+  "msg": "OK"
+}

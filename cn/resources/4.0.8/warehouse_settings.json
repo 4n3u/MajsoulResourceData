@@ -1,0 +1,33 @@
+{
+  "urls": [
+    {
+      "url": "https://app-update-1.catmajsoul.com",
+      "weight": 100000,
+      "TIMEOUT": 600000,
+      "Priority": 100,
+      "FASTTIMEOUT": 10000
+    },
+    {
+      "url": "https://app-update-1.catmjstudio.com",
+      "weight": 100000,
+      "TIMEOUT": 600000,
+      "Priority": 100,
+      "FASTTIMEOUT": 10000
+    },
+    {
+      "url": "https://app-update-2.catmjstudio.com",
+      "weight": 1,
+      "TIMEOUT": 600000,
+      "Priority": 99,
+      "FASTTIMEOUT": 10000
+    },
+    {
+      "url": "https://majsoul-hk-game-app-v3.oss-accelerate.aliyuncs.com",
+      "weight": 1,
+      "TIMEOUT": 600000,
+      "Priority": 1,
+      "FASTTIMEOUT": 10000
+    }
+  ],
+  "bundlePath": "/app/v3/release/ab/"
+}

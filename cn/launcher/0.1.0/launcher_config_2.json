@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0",
+  "game_client_source": "https://download-baishan.catmjstudio.com/app/installer/GameClients/4.0.8/",
+  "bundle_path": "https://download-baishan.catmjstudio.com/app/installer/v4.0/",
+  "direct_path": "https://download-baishan.catmjstudio.com/app/installer/v4.0/",
+  "minimum_version": "4.0.8"
+}

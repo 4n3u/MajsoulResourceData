@@ -1,0 +1,271 @@
+{
+  "code": 200,
+  "data": {
+    "banner_loop": true,
+    "news_list": {
+      "code": 0,
+      "data": {
+        "news": [
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/342",
+                "publishTime": 1771254000000,
+                "thumbnail": "",
+                "title": "【第64局目】にじたま　2026年2月17日（火）20時時配信！",
+                "typeLabel": "すべて"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/341",
+                "publishTime": 1770712664000,
+                "thumbnail": "",
+                "title": "【第56回】社務所通信 2026年2月10日(火)20時配信！",
+                "typeLabel": "すべて"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/339",
+                "publishTime": 1770606000000,
+                "thumbnail": "",
+                "title": "☆ピックアップ☆新雀士「篠原 ミア」「キンウ」☆祈願「運命の絆」開催☆特定雀士セレクトピックアップ開催（2026年2月11日(水)   ～  2026年3月7日(土) 5:59）",
+                "typeLabel": "すべて"
+              }
+            ],
+            "typeLabel": "すべて"
+          },
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/324",
+                "publishTime": 1764169200000,
+                "thumbnail": "",
+                "title": "決済キャンペーンのお知らせ（11月27日(木)0:00 ～1月13日(火)23:59）",
+                "typeLabel": "お知らせ"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/296",
+                "publishTime": 1753923600000,
+                "thumbnail": "",
+                "title": "決済キャンペーンのお知らせ（7月31日(木)0:00～9月9日(火)23:59）",
+                "typeLabel": "お知らせ"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/278",
+                "publishTime": 1745420400000,
+                "thumbnail": "",
+                "title": "決済キャンペーンのお知らせ（4月24日(木)0:00 ～ 5月31日(土)23:59）",
+                "typeLabel": "お知らせ"
+              }
+            ],
+            "typeLabel": "お知らせ"
+          },
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/339",
+                "publishTime": 1770606000000,
+                "thumbnail": "",
+                "title": "☆ピックアップ☆新雀士「篠原 ミア」「キンウ」☆祈願「運命の絆」開催☆特定雀士セレクトピックアップ開催（2026年2月11日(水)   ～  2026年3月7日(土) 5:59）",
+                "typeLabel": "イベント"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/340",
+                "publishTime": 1770606000000,
+                "thumbnail": "",
+                "title": "☆期間限定着せ替え☆「福姫」「イブ・クリス」「局」「藤田 佳奈」「三上千織」「サラ」「ゼクス」(2026年2月11日(水) ～ 2026年3月7日(土) 5:59)",
+                "typeLabel": "イベント"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/331",
+                "publishTime": 1768186800000,
+                "thumbnail": "",
+                "title": "☆ピックアップ☆特定雀士「花 語青」「花 語白」「かぐや姫」「レイア」「サターン」「斎藤 治」（2026年1月14日(水)  ～  2026年1月28日(水) 5:59）",
+                "typeLabel": "イベント"
+              }
+            ],
+            "typeLabel": "イベント"
+          },
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/342",
+                "publishTime": 1771254000000,
+                "thumbnail": "",
+                "title": "【第64局目】にじたま　2026年2月17日（火）20時時配信！",
+                "typeLabel": "メディア"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/341",
+                "publishTime": 1770712664000,
+                "thumbnail": "",
+                "title": "【第56回】社務所通信 2026年2月10日(火)20時配信！",
+                "typeLabel": "メディア"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/335",
+                "publishTime": 1769494867000,
+                "thumbnail": "",
+                "title": "【第55回】社務所通信 2026年1月27日(火)20時配信！",
+                "typeLabel": "メディア"
+              }
+            ],
+            "typeLabel": "メディア"
+          },
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/338",
+                "publishTime": 1770604200000,
+                "thumbnail": "",
+                "title": "メンテナンスのお知らせ 期間限定イベント「午神の願い事集め」開催（2月11日(水) 7:30～17:00）",
+                "typeLabel": "メンテナンス"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/333",
+                "publishTime": 1769740200000,
+                "thumbnail": "",
+                "title": "アップデートのお知らせ 期間限定イベント「霊烏の光」開催（2月2日(月) 12:00）",
+                "typeLabel": "メンテナンス"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/330",
+                "publishTime": 1768185000000,
+                "thumbnail": "",
+                "title": "メンテナンスのお知らせ 期間限定イベント「ミアの配信にようこそ」開催（1月14日(水) 9:30～15:00）",
+                "typeLabel": "メンテナンス"
+              }
+            ],
+            "typeLabel": "メンテナンス"
+          },
+          {
+            "rows": [
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/329",
+                "publishTime": 1766574000000,
+                "thumbnail": "",
+                "title": "年末年始のサポート対応",
+                "typeLabel": "その他"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/241",
+                "publishTime": 1735286400000,
+                "thumbnail": "",
+                "title": "年末年始のサポート対応",
+                "typeLabel": "その他"
+              },
+              {
+                "description": "",
+                "link": "https://mahjongsoul.com/news/208",
+                "publishTime": 1725591600000,
+                "thumbnail": "",
+                "title": "【事前予告】YostarIDの移行について【重要】",
+                "typeLabel": "その他"
+              }
+            ],
+            "typeLabel": "その他"
+          }
+        ]
+      },
+      "message": "ok"
+    },
+    "notice_list": null,
+    "operations_banner_list": [
+      {
+        "banner_img": "https://launcher-pkg-mj-jp.yo-star.com/prod/MajSoul_JP/banner/788998caf64294a04107c832668d9f36.png",
+        "jump_url": "https://mahjongsoul.com/news/338",
+        "remark": "期間限定イベント",
+        "start_at": 1770778800,
+        "end_at": 1772830740
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-jp.yo-star.com/prod/MajSoul_JP/banner/c130fc5fe28a4a1fcae57419baf4c270.png",
+        "jump_url": "https://mahjongsoul.com/news/338",
+        "remark": "新雀士1",
+        "start_at": 1770778800,
+        "end_at": 1772830740
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-jp.yo-star.com/prod/MajSoul_JP/banner/57fae8cd212a60fa004a8a9f58b2c965.png",
+        "jump_url": "https://mahjongsoul.com/news/338",
+        "remark": "新雀士2",
+        "start_at": 1770778800,
+        "end_at": 1772830740
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-jp.yo-star.com/prod/MajSoul_JP/banner/02533c3ffda97b2c8851b4d1bc94120c.png",
+        "jump_url": "https://mahjongsoul.com/news/339",
+        "remark": "期間限定PU",
+        "start_at": 1770778800,
+        "end_at": 1772830740
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-jp.yo-star.com/prod/MajSoul_JP/banner/142f935cdf78afad17a0801b3a60ff03.png",
+        "jump_url": "https://mahjongsoul.com/news/339",
+        "remark": "セレクトPU",
+        "start_at": 1770778800,
+        "end_at": 1772830740
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-jp.yo-star.com/prod/MajSoul_JP/banner/ccf2b0e6ae35f5da90b60833972a8cae.png",
+        "jump_url": "https://mahjongsoul.com/news/340",
+        "remark": "期間限定スキン",
+        "start_at": 1770778800,
+        "end_at": 1772830740
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-jp.yo-star.com/prod/MajSoul_JP/banner/98cfa4efa7d1257f50451da496b692d6.png",
+        "jump_url": "https://mahjongsoul.com/news/340",
+        "remark": "期間限定スキン",
+        "start_at": 1770778800,
+        "end_at": 1772830740
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-jp.yo-star.com/prod/MajSoul_JP/banner/8842054cdfac9e9d75eed2dd46dc73d6.png",
+        "jump_url": "https://mahjongsoul.com/news/340",
+        "remark": "期間限定スキン",
+        "start_at": 1770778800,
+        "end_at": 1772830740
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-jp.yo-star.com/prod/MajSoul_JP/banner/1b7afccb8b5814404d0202edd0579d14.png",
+        "jump_url": "https://mahjongsoul.com/news/340",
+        "remark": "復刻スキン",
+        "start_at": 1770778800,
+        "end_at": 1772830740
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-jp.yo-star.com/prod/MajSoul_JP/banner/50ac1602b1f73e0645fe4bff2f9ff2d9.png",
+        "jump_url": "https://mahjongsoul.com/news/208",
+        "remark": "YostarIDについて",
+        "start_at": 0,
+        "end_at": 0
+      },
+      {
+        "banner_img": "https://launcher-pkg-mj-jp.yo-star.com/prod/MajSoul_JP/banner/19a10440e59b0038bd343848c22d186b.png",
+        "jump_url": "https://mahjongsoul.com/faq",
+        "remark": "faq",
+        "start_at": 0,
+        "end_at": 0
+      }
+    ],
+    "operations_resource_open": true,
+    "time_interval": 5
+  },
+  "msg": "OK"
+}

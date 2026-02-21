@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "data": {
+    "launcher_background_img": "https://launcher-pkg-mj-kr.yo-star.com/prod/MajSoul_KR/launcher_background_img/821eb9ac27b1421c1dcd84eae6f0b708.png",
+    "launcher_background_img_crc64": "13876177525753709418",
+    "config_open": false,
+    "user_agreement": "",
+    "privacy_policy": "",
+    "copyright_information": "",
+    "notice_pop_open": false,
+    "notice_content": "",
+    "exit_launcher_open": false
+  },
+  "msg": "OK"
+}

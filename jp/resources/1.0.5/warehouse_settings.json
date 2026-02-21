@@ -1,0 +1,19 @@
+{
+  "urls": [
+    {
+      "url": "https://appassets.mahjongsoul.com",
+      "weight": 100000,
+      "TIMEOUT": 600000,
+      "Priority": 100,
+      "FASTTIMEOUT": 10000
+    },
+    {
+      "url": "https://appassetsback.mahjongsoul.com",
+      "weight": 1,
+      "TIMEOUT": 600000,
+      "Priority": 50,
+      "FASTTIMEOUT": 10000
+    }
+  ],
+  "bundlePath": "/v3/jp/resources/ab/"
+}

@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "data": {
+    "social_media_resource_open": true,
+    "social_media_resource_list": [
+      {
+        "social_media_channel": "官网",
+        "qr_img": "",
+        "jump_url": "https://mahjongsoul.com/"
+      },
+      {
+        "social_media_channel": "X",
+        "qr_img": "",
+        "jump_url": "https://twitter.com/MahjongSoul_JP"
+      },
+      {
+        "social_media_channel": "Discord",
+        "qr_img": "",
+        "jump_url": "https://discord.gg/mahjongsoul"
+      },
+      {
+        "social_media_channel": "YouTube",
+        "qr_img": "",
+        "jump_url": "https://www.youtube.com/channel/UC8Wn_3U-fssptm6US_nsoOA"
+      },
+      {
+        "social_media_channel": "Twitch",
+        "qr_img": "",
+        "jump_url": "https://www.twitch.tv/mahjongsoul_jp"
+      }
+    ],
+    "contact_customer_complaint": false,
+    "contact_customer_complaint_type": 0,
+    "web_customer_complaint_url": "",
+    "aihelp_customer_complaint": {
+      "aihelp_app_id": "",
+      "aihelp_domain": "",
+      "aihelp_app_key": "",
+      "initial_interface": 0
+    },
+    "mail_customer_complaint_url": ""
+  },
+  "msg": "OK"
+}
