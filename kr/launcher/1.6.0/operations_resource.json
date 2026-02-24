@@ -158,6 +158,13 @@
     "notice_list": null,
     "operations_banner_list": [
       {
+        "banner_img": "https://launcher-pkg-mj-kr.yo-star.com/prod/MajSoul_KR/banner/4e5397a2ff5dc176c3a7751b524e803b.png",
+        "jump_url": "https://cafe.naver.com/mahjongsoul/16101",
+        "remark": "账号绑定",
+        "start_at": 0,
+        "end_at": 0
+      },
+      {
         "banner_img": "https://launcher-pkg-mj-kr.yo-star.com/prod/MajSoul_KR/banner/751c0db9599bcbd751052e6469bcf07f.png",
         "jump_url": "https://youtu.be/pBu1qIw1XqE",
         "remark": "PV",
@@ -175,13 +182,6 @@
         "banner_img": "https://launcher-pkg-mj-kr.yo-star.com/prod/MajSoul_KR/banner/0c33ddd5568b8fe92077cc157b96e85e.png",
         "jump_url": "https://youtu.be/eL6IdVZk7Uo",
         "remark": "PV",
-        "start_at": 0,
-        "end_at": 0
-      },
-      {
-        "banner_img": "https://launcher-pkg-mj-kr.yo-star.com/prod/MajSoul_KR/banner/4e5397a2ff5dc176c3a7751b524e803b.png",
-        "jump_url": "https://cafe.naver.com/mahjongsoul/14518",
-        "remark": "账号绑定",
         "start_at": 0,
         "end_at": 0
       }
